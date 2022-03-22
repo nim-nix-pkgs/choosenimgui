@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-choosenimgui-master.flake = false;
+  inputs.src-choosenimgui-master.ref   = "refs/heads/master";
   inputs.src-choosenimgui-master.owner = "ThomasTJdev";
-  inputs.src-choosenimgui-master.ref   = "master";
   inputs.src-choosenimgui-master.repo  = "choosenim_gui";
   inputs.src-choosenimgui-master.type  = "github";
   
