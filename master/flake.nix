@@ -11,7 +11,6 @@
   inputs.src-choosenimgui-master.ref   = "refs/heads/master";
   inputs.src-choosenimgui-master.owner = "ThomasTJdev";
   inputs.src-choosenimgui-master.repo  = "choosenim_gui";
-  inputs.src-choosenimgui-master.dir   = "";
   inputs.src-choosenimgui-master.type  = "github";
   
   inputs."webgui".owner = "nim-nix-pkgs";
