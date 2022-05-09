@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/ThomasTJdev/choosenim_gui",
   "refs": [
-    "fatal: unable to access 'https://github.com/ThomasTJdev/choosenim_gui/': Error in the HTTP2 framing layer",
+    "fatal: unable to access 'https://github.com/ThomasTJdev/choosenim_gui/': OpenSSL SSL_read: Network is unreachable, errno 101",
     ""
   ],
   "heads": []
