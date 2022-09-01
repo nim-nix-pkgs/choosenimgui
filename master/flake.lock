@@ -24,8 +24,8 @@
     "nixpkgs": {
       "locked": {
         "lastModified": 0,
-        "narHash": "sha256-19Ib1b7Ny+yGhnxwnH1KhhB2hvALuNuqevA6XzqkQmo=",
-        "path": "/nix/store/5mdm97ryfgnsh02h7jiragdmcgh6vbvp-source",
+        "narHash": "sha256-ajXYYTE1uoY3ei/P1v+Knklf2QNCBxMtw1gByaPTGU4=",
+        "path": "/nix/store/l9gfyh4wh4yrv0m9is00x82ba0synxgb-source",
         "type": "path"
       },
       "original": {
@@ -87,11 +87,11 @@
       },
       "locked": {
         "dir": "0_9_0",
-        "lastModified": 1661841714,
-        "narHash": "sha256-BpHoU4/mgVNp4lQ7tqoizbwiXssMArzan1BJlLufK6Q=",
+        "lastModified": 1662003148,
+        "narHash": "sha256-duHtCRu9h1xdr0OdLCpTT54FZ8+BmiAkVKQS5mktYdc=",
         "owner": "nim-nix-pkgs",
         "repo": "webgui",
-        "rev": "569bc6f1f418e996f11810c23fce7f2bf989ebc1",
+        "rev": "8510a7c511c06bfe31fd12aa6e23c90bd2e4dc2d",
         "type": "github"
       },
       "original": {
